@@ -19,7 +19,7 @@ def fizzbuzz(int)
 
   if string!=""
     string
-  elsif 
+  elsif
     nil
   end
 
