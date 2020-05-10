@@ -16,7 +16,7 @@ def fizzbuzz(int)
 
   end
 
-  if string=""
+  if string==""
     nil
   end
 
