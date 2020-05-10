@@ -30,7 +30,6 @@ def fizzbuzz(int)
   end
 
   string
-  
+
 
 end
-
